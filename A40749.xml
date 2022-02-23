@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Further inquiry for truth, for the better satisfaction of scruplous [sic] consciences ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40749</idno>
+            <idno type="STC">Wing F2558</idno>
+            <idno type="STC">ESTC R17987</idno>
+            <idno type="EEBO-CITATION">11865145</idno>
+            <idno type="OCLC">ocm 11865145</idno>
+            <idno type="VID">50081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50081)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 31:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Further inquiry for truth, for the better satisfaction of scruplous [sic] consciences ...</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A discussion of the royal prerogative and the relative authority of Parliament.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Prerogative, Royal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50081:1"/>
+            <pb facs="tcp:50081:1" rendition="simple:additions"/>
+            <p>A further Inquiry FOR TRVTH, For the better ſatisfaction of ſcruplous CONSCIENCES.</p>
+            <p>
+               <hi>Reade and Judge:</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50081:2"/>
+            <p>WHether may the King be diſobeyed, and his commands with<g ref="char:EOLhyphen"/>ſtood, or not? Whether He is to be oppoſed in his proceedings by any command of the Parliament? Or whether are we now to obey King or Parliament?</p>
+            <p>
+               <hi>Anſw.</hi> 1. Firſt, ſome Princes think, that they may lawfully do, what<g ref="char:EOLhyphen"/>ſoever they have power to do, or can do; but the contrary ſeems truer (both by light of Reaſon, Religion, and all power intruſted by Law in the hands of any) <hi>viz.</hi> that Princes have no power to do, but what is lawfull, and fit to be done.</p>
+            <p>
+               <hi>Anſw.</hi> 2. Secondly, perſonall actions of ſuperiours be diſobeyed. The Gramarians ſay, <hi>Rex regis, à rego,</hi> the word <hi>King</hi> comes from <hi>Governing,</hi> becauſe <hi>Kings</hi> are no other, but more <hi>high,</hi> and <hi>ſupreme Go<g ref="char:EOLhyphen"/>vernours,</hi> and <hi>Magiſtrates.</hi> Now ſome hold (and I think warrantably that if any Magiſtrate, or Judge, do purſue a man, not judicially, and by order of Law, but invade him by violence, without any juſt cauſe againſt all Law, that then in ſo doing he is to be held as a private perſon, and as ſuch we may defend our ſelves againſt him. As for example, a woman may defend her own body againſt an adulterer, though a Magiſtrate A ſervant may hold his maſters hands, if he ſeek to kill wife or children in his rage. Marriners, and Paſſengers may reſiſt him who ſtands an helm, if they ſee that he would run the ſhip againſt a rock; yea they might hold the Princes hands, if being at the helm he miſgoverns th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhip, to their certain ſhipwrack, without prevention; becauſe by his ſo governing thereof, he hazards both his own life, and theirs, and they by holding of his hands, prevent both his, and their own ruine (which ſeem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be our preſent eaſe) and therefore, much more may the <hi>whole Body</hi> de<g ref="char:EOLhyphen"/>fend it ſelf againſt any ſuch unjuſt and unlawfull invaſion, as will endan ger the ſafety and welfare of all.</p>
+            <p>
+               <hi>Anſw.</hi> 3. Thirdly, the Kings perſonall, that is, verball commands without any ſtamp of his authority upon them, and againſt the <hi>Order</hi> o <hi>both Houſes of Parliament,</hi> I imagine may be diſobeyed. For I do conceiv that no Lawyer will ſay, that ſuppoſe the King ſhould take the <hi>Broad Sea of England</hi> from the Lord Keeper, into his own hands, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t all the Writ whatſoever he ſhould iſſue forth ſign'd with his own hand, &amp; ſeal'd there
+<pb facs="tcp:50081:2"/> with, ought to be obeyed: for it is not the ſtamp and impreſsion of the Seal which makes a thing lawfull, but the Keeper thereof ought to be a Lawyer, and (by his place) ſhould not for fear, or favour, ſigne any Writs therewith, but ſuch as are legall; and if he do otherwiſe, he is lia<g ref="char:EOLhyphen"/>ble to be queſtioned, and cenſured by a Parliament. And therfore doubt<g ref="char:EOLhyphen"/>leſſe, when Writs and Precepts are iſſued forth without the <hi>broad Seal,</hi> or without a regall, that is, legall, authority (as all the Writs and Commiſsions, for executing the Commiſsion of Array, are, as is pro<g ref="char:EOLhyphen"/>ved both by the Parliament and others) they may be diſobeyed, and withſtood, eſpecially when they are deſtructive to the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>
+               <hi>Anſw.</hi> 4. Fourthly, Princes by Parliaments may be withſtood, when they deſire, or endeavour thoſe things, which tend to the envaſſalling of their people. Kings (we know) ſometimes have loved their enemies more then their friends, and have marched forth amongſt their enemies, to encounter with their friends. As for example, <hi>Richard</hi> the 2. thought <hi>Spencer</hi> and his confederates his beſt friends, though they were baſe ſy<g ref="char:EOLhyphen"/>cophants, and bainfull foes, and conceited that his Peers (who were his loyalleſt Subjects) were the trueſt Traytors; And hence Princes being abuſed by the flattery of private perſons (for ſome wicked ends of their own) have followed their private perverſe counſels, before the grave, loyall and faithfull advice of their ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge Senate. Now that it is lawfull for Parli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments to withſtand Princes, who make unlawfull war upon their people, is ſo evidently proved, by the Author of that lately come forth, and learned and pious Treatiſe, called, <hi>A ſoveraign Antidote to pre<g ref="char:EOLhyphen"/>vent Civil Wars,</hi> pag. 6, 7, 8, 9, &amp;c. that at preſent I wholy ſilence it.</p>
+            <p>
+               <hi>Anſw.</hi> 5. Fifthly, the matter with us is quite and generally miſtaken, and the Queſtion altogether wrong ſtated, <hi>viz.</hi> Whether we ſhould obey the King, or Parliament? for the King and Parliament are not like two parallell lines, which can never meet, nor like two incompatible qualities, which cannot be both in one ſubject, nor like the Ark and Da<g ref="char:EOLhyphen"/>gon, whom one houſe will not hold, nor like God and Mammon, which one man cannot ſerve; for by ſiding with, and aſſiſting of the Parliament, in thoſe things which are according to Law, we ſide with, and ſerve the King.</p>
+            <p>Two things are here diſtinguiſhable, to wit,</p>
+            <pb facs="tcp:50081:3"/>
+            <p>1. In our obeying of the Parliament according to Law, we obey the King. That his Majeſty grants, commands and commends, yea profeſ<g ref="char:EOLhyphen"/>ſeth, that he requires no obedience of us to himſelfe, farther then he en<g ref="char:EOLhyphen"/>joynes that which is Law, lawfull and juſt, And,</p>
+            <p>2. In our obeying of the Parliament in this preſent Military and Mar<g ref="char:EOLhyphen"/>tiall deſign, we ſtand for the King, not againſt him: that is, for the good of his ſoul, perſon, eſtate, honor and poſterity; of which a word or two ſeverally. 1. They ſtand for the ſoul of their Soveraign, who withſtand him (having a lawfull call, and warrant thereunto) from doing thoſe things which (if he do) he can never juſtifie in the court of conſcience, nor at the great chancery day of judgement, but muſt ſink under the ſentence of condemnation, for thoſe unlawfull and unjuſtifiable facts. And there<g ref="char:EOLhyphen"/>fore the Parliament (and we in obedience unto them) are friends unto the ſoule of our dread Soveraign, in not obeying, aiding and aſſiſting of him, to make unnaturall, unlawfull and unwarrantable Wars, upon his Parliament and people, which can never be defended, or juſtified, before or unto God, to whom the Mightieſt aſwell as the meaneſt, muſt give a ſtrict account of all their actions at the laſt day. And 2. They ſtand for the Kings Perſon, who obey, joyn, and ſide with the Parliament. His Majeſties perſon is now environed by thoſe, who carry him, (as far as the eye of humane probability can ſee) upon his own ruine, and the deſtruction of all his good people: which the Parliament ſeeing, they la<g ref="char:EOLhyphen"/>bour to free him from ſuch falſe hands, by this twofold meanes, <hi>viz.</hi> 1. By perſwading, beſeeching, and moſt humbly ſoliciting his Majeſty to foreſake them, and to rejoyce and make glad the hearts of his Parlia<g ref="char:EOLhyphen"/>ment and people, by conjoyning himſelfe with them. But this requeſt, ſuit and ſupplication will not yet be granted, though with much impor<g ref="char:EOLhyphen"/>tunity and many loyall expreſſions deſired. And 2. By labouring to take his evill Councellors from him: they being confidently aſſured, and piouſly perſwaded of the Kings ſweet diſpoſition and readineſſe to com<g ref="char:EOLhyphen"/>ply with them, in any thing which might conduce to the good, either of Church or Common-wealth; if he were not over ſwayed and deluded by the fained flattering and crafty counſell of thoſe about him, who look with a ſiniſter eye upon our State. Now this ſeems to me to be all that is aimed at, in this preſent Military and Martiall deſign: for the Parlia<g ref="char:EOLhyphen"/>ment do not purpoſely, and in their firſt intentions, intend by their ſoul<g ref="char:EOLhyphen"/>diers
+<pb facs="tcp:50081:3"/> to cut off any (for if any be ſlain by them, it is by accident) but to preſerve and keep the peace of the Kingdom, to maintain the priviledges of Parliament, the Laws of the Land, the free courſe of juſtice, the Pro<g ref="char:EOLhyphen"/>teſtant Religion, the Kings authority and perſon in his royall dignity, and to attach, arreſt, and bring ſuch as are accuſed, or imagined, to be the diſturbers, and fire-brands of the Kingdom, unto a fair, juſt, equall and legall triall, which no man can think unlawfull in our Law-makers. And therefore both Senators and Subjects in the proſecution of this de<g ref="char:EOLhyphen"/>ſign, ſtand for the ſafety of their Princes perſon. And</p>
+            <p>3. They ſtand for his State, Wealth, honor, and reputation, for I conjoyn all theſe together. Kings acquire and accumulate more honour, reſpect, wealth and power, by their meekneſſe towards, tender love of, and vigilant care for their Subjects, and their ſafety (as we ſee in Queen <hi>Elizabeth</hi> and <hi>Tiberius,</hi> ſo long as he was ſuch) then by tyrannizing over and cruelly oppreſſing and handling of them, as we ſee in <hi>Caligula.</hi> If our gracious Soveraign, would be but pleaſed, to conſider the honour and proſperity which his Predeceſſors have enjoyed, by following the advice of their Parliaments, and the diſhonor our Nation hath in divers deſigns received abroad, and the grievous troubles, vexation and diſcord we have had at home, ſince Parliaments have bin diſuſed, and layd aſleepe, he would then certainly ſee, that they ſeek his wealth, honor, reputation &amp; welfare, who deſire to reconcile and conjoyn him unto his Parliament, and adviſe him to govern his people by Parliaments, and endeavour to free him from the power, and hands of thoſe, who being in themſelves, deſire likewiſe to make him an enemy unto Parliaments. And</p>
+            <p>4. They ſtand for his Poſterity: For as evill gotten goods ſlip and waſt away, and ſeldome continue to the third generation: ſo Kings can<g ref="char:EOLhyphen"/>not be ſure that their poſterity ſhall peaceably and ſucceſſively enjoy their Crowns, except themſelves rule and govern according to Law, righteouſneſſe only eſtabliſhing the Crowne and Throne, both upon Princes and their poſterity. And therefore they who aſſiſt not the King in thoſe things, waye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and courſes, which are illegall, grievous, yea di<g ref="char:EOLhyphen"/>ſtructive to the Common-wealth, are his Childrens and poſterities beſt friends.</p>
+            <p>I conclude this Queſtion with this Argument.</p>
+            <pb facs="tcp:50081:4"/>
+            <p>
+               <hi>Argu.</hi> Thoſe who labour with their lives and eſtates, to defend and maintain the Kings Soul, Honour, Reputation, Wealth, perſon and po<g ref="char:EOLhyphen"/>ſterity, obey and ſtand for Him.</p>
+            <p>
+               <hi>Queſt.</hi> But the Parliament, and all thoſe who ſide with them in this preſent deſign, labour with their lives and eſtates, to maintaine and defend the Kings Soul, Honour, Reputation, Wealth, Perſon and po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>Therefore the Parliament, and all thoſe who ſide with them in this preſent deſign, in ſo doing, obey and ſtand for Him.</p>
+            <p>It ſhould ſeem by what hath been ſpoken, That neither the Parlia<g ref="char:EOLhyphen"/>ment nor People, doth intend the leaſt indignity, diſhonour or diſloyal<g ref="char:EOLhyphen"/>ty to the King: and it is moſt perſpicuouſly and clearly to be ſeen, in all the Kings gracious Meſſages and Declarations, That he hath no deſign upon his people or Parliament, neither inteuds any harm, oppoſition of oppreſſion unto them, but profeſſeth to rule them according to Law and equity: How then comes it to paſſe, that either the Parliament will not or dare not confide in the King?</p>
+            <p>
+               <hi>Anſw.</hi> 1. Firſt, it is becauſe they ſee that ſome about the King, are potent with Him, who affect not the Parliament, nor their proceedings, have that inflnence in his Counſels, and are ſo predominant and preva<g ref="char:EOLhyphen"/>lent with Him, that they have often varyed and altered him, from his words and promiſes. It is a Maxime in Law; <hi>The King can do no wrong:</hi> for if any evill act be committed in matter of State, his Counſell, if in matters of Juſtice, his Judges muſt anſwer for it: and therefore I will not lay any fault upon the King, but rather impute the faults which have been of late obvious to many, unto ſome about him, or in great favour with him. Great diſcouragements (I grant) the Parliament in their pro<g ref="char:EOLhyphen"/>ceedings have had from the King, but I dare not imagine that they came originally and primarily from Him, but from ſome about him, in regard of that vaſt diffe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence which is between his words ſpoken to his Parlia<g ref="char:EOLhyphen"/>ment with his own mouth, when he was with them, and the Meſſages ſent unto, and the heavy charges layd upon them, in his Letters and De<g ref="char:EOLhyphen"/>clarations, now when he is abſent from them. He ſaid once, <hi>That in the word of a King, and as He was a Gentleman, he would redreſſe the grievances of his People, as well out of the Parliament as in it.</hi> Againe, <hi>That He was re<g ref="char:EOLhyphen"/>ſolved to put Himſelf freely and clearly upon the Love and affection of his Eng<g ref="char:EOLhyphen"/>liſh
+<pb facs="tcp:50081:4"/> Subjects.</hi> Againe, <hi>We do engage unto you ſolemnly the word of a King, that the ſecu<g ref="char:EOLhyphen"/>rity of all, and every one of you from violence, is, and ever ſhall be as much our care, as the preſervation of us and our children:</hi> And yet what actions and paſſages have of late fallen out, quite contrary to all thoſe expreſſions? the Parliament and all who ſide with it, aſſiſt it, or obey it, in any of the commiſſions or Orders thereof, being aſſaulted, oppoſed, yea now at laſt proclaimed Traitors. Againe, His Maj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty doth profeſſe the deteſtation of a civill war, and abhorres (as he ſaith) the very appre<g ref="char:EOLhyphen"/>henſion of it. But this mind ſeem'd neither to be in them, who came with his Maj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty to the Houſe of Commons, nor who accompanied him to Hampton-court, and appea<g ref="char:EOLhyphen"/>red in a warlike manner at Kingſton, nor in divers of thoſe who have been with him and employed by him at Yorke, Hull, Lieceſter-ſhire, Lancaſhire, Sommerſet-ſhire, Northamptonſhire, and other places. And therefore we muſt needs conceive, that the King is put upon theſe courſes and wayes by his evill counſellors, and conſe<g ref="char:EOLhyphen"/>quently, that the Parliament cannot confide in his words and promiſes, untill thoſe counſellors be put from him, or forſaken by him. And</p>
+            <p>
+               <hi>Anſw.</hi> 2. Secondly, becauſe of that truſt which is repoſed in them. I dare boldly ſay, That if the King ſhould take, or make thoſe proteſtations, which he makes in his meſſages and Declarations, unto any one of the Parliament Houſe, for the per<g ref="char:EOLhyphen"/>formance of any promiſe either unto them or theirs, which did ſimply and ſoly con<g ref="char:EOLhyphen"/>cern themſelves, they would believe and obey him, and without any further queſti<g ref="char:EOLhyphen"/>on confide in him, but they cannot do this in the caſe, and place, wherein they are. The truſt repoſed by the people in the Parliament, is as well to preſerve the king<g ref="char:EOLhyphen"/>dom by making of new Laws, when and where there ſhalbe need, as byobſerving and putting the Laws already made in execution: And therefore in regard of this truſt, they dare not hazard the ſafety, preſervation, and ſole mannaging of the Land to his Majeſty alone, upon his bare word, becauſe if after ſuch confiding of theirs in the King, upon his faithfull promiſe unto them, he ſhould be over-ſwayed, and ſeduced by ſome wicked counſellors, to lay ſome illegall impoſitions, taxations and burdens upon his people (as he did ſoon after the granting of the Petition of Right unto the Subject) the kingdom then would (and might juſtly) blame them as the authors of their grievances, that had ſo lightly given away their liberties and freedom, by ſubjecting them to an arbitrary power. And indeed, if we will but conſider it without paſſion and partiality, the caſe is no other but this, if the Parliament ſhould wholy confide in the Kings words and promiſes, then there were no more requiſite in them, then this, to make a Declaration unto his Majeſt of the grievances, burdens, annoyan<g ref="char:EOLhyphen"/>ces and illegall proceedings in all, or ſuch and ſuch courts or perſons, to the great oppreſſion and heart-break of the Subject, and having ſo done, to obtain ſome ſeri<g ref="char:EOLhyphen"/>ous promiſe and proteſtation from the King to take off all thoſe preſſures, and to be carefull for the future, that no ſuch ſhall be impoſed upon them, and then to confide in the King, and to breake up the Parliament, and repaire every one to his owne houſe. Now if Sence, Reaſon, Experience and knowledge will tell us that this is far from, or comes far ſhort of the true nature, and duty of a Parliament, then let
+<pb facs="tcp:50081:5"/> us think that it is reaſon (as the caſe now ſtands) that the Parliament ſhould not confide in the King. And</p>
+            <p>
+               <hi>Anſw.</hi> 3. Thirdly, becauſe it were very dangerous for the time to come. Admit<g ref="char:EOLhyphen"/>ting our preſent Soveraign were as prudent as <hi>Solomon,</hi> yea as pious as <hi>David</hi> (yea like him, a man after Gods own heart) yet it were dangerous for the Parliament ſo to confide in him, that they ſhould truſt the mannaging of all the great and weighty af<g ref="char:EOLhyphen"/>fairs of this kingdom wholy and ſolely unto him, and conſequently granting him an arbitrary power, to rule us, according to the dictates of his own conſcience, or as the Lord ſhould move and perſwade his heart. This (I ſay) is not ſafe, becauſe if they grant, give or ſettle this power upon him, as King of <hi>England,</hi> then all other ſucceeding Kings will challenge and claim it as due; (or think they are not reſpected as their predeceſſours) whence if any of them prove Tyrants or tyrannous oppreſ<g ref="char:EOLhyphen"/>ſours, we ſhall be moſt miſerable and wretched ſlaves.</p>
+            <p>
+               <hi>Ob.</hi> Some perhaps may here object, that although Princes ſhould not uſe their abſolute power by doing alwayes what they liſt, yet they ought not to be circum<g ref="char:EOLhyphen"/>ſcribed, limited, or reſtrained in their government, by any tie or obligation of Law.</p>
+            <p>
+               <hi>Anſw.</hi> 1. Firſt, it is much better (conſidering the corruption of our nature) to be with-held by ſome reſtraints of Law and covenant, from that which is evill, and which we cannot juſtiſie before God in the court of conſcience, then to be bound<g ref="char:EOLhyphen"/>leſſe, law leſſe, and left to live as we liſt, and to do whatſoever ſeems good in our own eyes.</p>
+            <p>
+               <hi>Anſw.</hi> 2. Secondly, this alſo is better for others: for as the Crane had better to keep his head out of the Wolves mouth, then to put it into his mouth, and then ſtand at his mercy, whether he will bite off his neck or not, ſo it is better for every wiſe man, rather to keep and preſerve thoſe immunities, freedoms, prerogatives, and priviledges, which God and nature hath given unto him, for the preſervation, proſ<g ref="char:EOLhyphen"/>perity and peace of his poſterity, perſon and eſtate, then to diſenfranchize himſelfe and to relinquiſh and reſign all into the hands of another, &amp; to give him power ei<g ref="char:EOLhyphen"/>ther to impoveriſh or enrich, either to kill him, or keep him alive.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50081:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
